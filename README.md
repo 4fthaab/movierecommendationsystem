@@ -97,4 +97,3 @@ The project uses a subset of the [MovieLens dataset](https://grouplens.org/datas
     * `movieId`: Identifier for the movie being rated.
     * `rating`: Rating given (on a 0.5 - 5.0 scale).
     * `timestamp`: Time the rating was given.
-````
